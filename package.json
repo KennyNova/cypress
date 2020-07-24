@@ -1,0 +1,15 @@
+{
+  "name": "cypressTest",
+  "version": "1.0.0",
+  "description": "cypress",
+  "main": "cypress.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navid",
+  "license": "ISC",
+  "devDependencies": {
+    "chance": "^1.1.6",
+    "cypress": "^4.11.0"
+  }
+}
